@@ -64,21 +64,31 @@
 
 注意：进入野卡首页后，可以在右上角切换语言，方便操作。
 
+![登录wildcard野卡网站](https://raw.githubusercontent.com/gptbmw/wildcard/refs/heads/main/wildcard%EF%BC%88image%EF%BC%89/wildcard-1%E7%99%BB%E5%BD%95%E7%BD%91%E7%AB%99.jpg)
+
 ### 第二步：注册账号
 
 点击右上角的“登录/注册”，在弹出的窗口中点击“去注册”。输入手机号，获取验证码并提交，即可完成账号注册。
+
+![注册wildcard野卡](https://raw.githubusercontent.com/gptbmw/wildcard/refs/heads/main/wildcard%EF%BC%88image%EF%BC%89/wildcard-2%E6%B3%A8%E5%86%8C.jpg)
 
 ### 第三步：点击“立即开通”按钮
 
 注册完成后，点击左侧的“立即开通”。在这个页面，你可以看到野卡支持OpenAI、Google Play、ChatGPT、Claude等AI产品的支付，同时也支持Apple/Google应用商店绑卡和其他海外服务订阅，适用于各种跨境支付场景。
 
+![立即开通wildcard野卡](https://raw.githubusercontent.com/gptbmw/wildcard/refs/heads/main/wildcard%EF%BC%88image%EF%BC%89/wildcard-3%E7%AB%8B%E5%8D%B3%E5%BC%80%E9%80%9A.png)
+
 ### 第四步：支付野卡年费
 
 选择所需的服务年限，并输入专属邀请码“GPTBMW”可享受1美元的优惠。点击“下一步”后，系统会弹出支付宝二维码，扫码支付即可。开通野卡虚拟信用卡需要支付一定的开卡费用，这相当于银行的办卡工本费，主要用于卡片管理和服务维护。
 
+![支付wildcard野卡服务费](https://raw.githubusercontent.com/gptbmw/wildcard/refs/heads/main/wildcard%EF%BC%88image%EF%BC%89/wildcard-4%E6%94%AF%E4%BB%98%E6%9C%8D%E5%8A%A1%E8%B4%B9.png)
+
 ### 第五步：填写个人信息
 
 支付成功后，进入个人信息填写页面。这里需要输入英文姓名，并同意封禁须知。填写完成后，点击“下一步”继续。然后你就会看到“恭喜您开通野卡支付服务”的提示，同时还会显示当前的支付限额。如果需要提高额度，可以点击“立即提升额度”进行认证。
+
+![填写野卡个人信息](https://raw.githubusercontent.com/gptbmw/wildcard/refs/heads/main/wildcard%EF%BC%88image%EF%BC%89/wildcard-5%E5%A1%AB%E5%86%99%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF.jpg)
 
 认证与不认证的区别：如果你选择不进行实名认证，每月支付限额将保持在60美元，适合一般用户使用。如果你的月支付额度高于60美元，那么可能需要进行实名认证（通过人脸识别），将每月支付限额提升至3000美元，适合需要更大额度的用户。
 
@@ -88,9 +98,13 @@
 
 点击左侧菜单栏的“订阅服务”，可以查看详细的卡片信息，包括卡号、安全码、有效期、账单地址以及可用余额等。
 
+![查看wildcard野卡卡片](https://raw.githubusercontent.com/gptbmw/wildcard/refs/heads/main/wildcard%EF%BC%88image%EF%BC%89/wildcard-6%E6%88%91%E7%9A%84%E5%8D%A1%E7%89%87.png)
+
 ### 第七步：为野卡充值
 
 刚开通的卡片余额为0，前面支付的是开卡费用，并不会存入账户余额。如果需要使用野卡进行海外订阅，比如ChatGPT Plus或Claude Pro，首先需要充值。建议充值金额略高于订阅费用，以确保支付顺利进行。
+
+![为wildcard野卡充值](https://raw.githubusercontent.com/gptbmw/wildcard/refs/heads/main/wildcard%EF%BC%88image%EF%BC%89/wildcard-7%E5%85%85%E5%80%BC.png)
 
 需要注意的是，账户余额不足时，如果消费失败累计达到5次，或者1小时内失败3次，卡片会被冻结，解冻需要支付1美元的费用。因此，在充值时最好保证余额充足，以免影响正常使用。
 
