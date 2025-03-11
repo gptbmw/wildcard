@@ -30,7 +30,7 @@
 
 ### 第一步：访问野卡官网
 
-野卡官网：https://yeka.ai/i/GPTBMW
+野卡官网：<a href="https://yeka.ai/i/GPTBMW">前往野卡官网</a>
 
 野卡优惠码：**GPTBMW**
 
