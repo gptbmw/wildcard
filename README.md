@@ -72,13 +72,13 @@
 
 点击左侧菜单栏的“订阅服务”，可以查看详细的卡片信息，包括卡号、安全码、有效期、账单地址以及可用余额等。
 
-![查看wildcard野卡卡片](https://raw.githubusercontent.com/gptbmw/wildcard/refs/heads/main/wildcard%EF%BC%88image%EF%BC%89/wildcard-6%E6%88%91%E7%9A%84%E5%8D%A1%E7%89%87.png)
+![查看wildcard野卡卡片](https://raw.githubusercontent.com/gptbmw/wildcard/refs/heads/main/wildcard-6%E6%88%91%E7%9A%84%E5%8D%A1%E7%89%871.jpg)
 
 ### 第七步：为野卡充值
 
 刚开通的卡片余额为0，前面我们支付的是开卡费用，类似于我们办卡时的工本费，主要用于卡片管理和系统服务维护，这个开卡费用并不会存入账户余额。如果需要使用野卡进行海外订阅，比如ChatGPT Plus或Claude Pro，首先需要给卡片充值。建议充值金额略高于订阅费用，以确保支付顺利进行。
 
-![为wildcard野卡充值](https://raw.githubusercontent.com/gptbmw/wildcard/refs/heads/main/wildcard%EF%BC%88image%EF%BC%89/wildcard-7%E5%85%85%E5%80%BC.png)
+![为wildcard野卡充值](https://raw.githubusercontent.com/gptbmw/wildcard/refs/heads/main/wildcard-7%E5%85%85%E5%80%BC1.jpg)
 
 需要注意的是，账户余额不足时，如果消费失败累计达到5次，或者1小时内失败3次，卡片会被冻结，解冻需要支付1美元的费用。因此，在充值时最好保证余额充足，以免影响正常使用。
 
@@ -90,7 +90,9 @@
 
 #### 第一步，登录<a href="https://yeka.ai/i/GPTBMW">wildcard官网</a>，进入账户管理页面。
 
-在左侧菜单栏找到“订阅服务”选项，点击进入充值页面。
+在左侧菜单栏找到“我的卡片”选项，可以看到卡片的详细信息，在顶部点击“充值”。
+
+![为wildcard野卡充值](https://raw.githubusercontent.com/gptbmw/wildcard/refs/heads/main/wildcard-7%E5%85%85%E5%80%BC1.jpg)
 
 #### 第二步，选择充值金额。
 
