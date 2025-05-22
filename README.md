@@ -2,6 +2,8 @@
 
 <p align="center">文章更新于：2025年5月20日</p >
 
+![s](https://ra首图.githubusercontent.com/gptbmw/wildcard/refs/heads/main/wildcard%EF%BC%88image%EF%BC%89/W%EF%BC%88image%EF%BC%89/WildCard%20%E9%A6%96%E5%9B%BE.png)
+
 近期，我利用野卡（即WildCard升级版）顺利订阅了<a href="https://yeka.ai/i/GPTBMW">ChatGPT Plus</a>服务，整个流程超乎预期地顺畅且简便。在接触Wildcard虚拟信用卡之前，和众多用户一样，我也常常面临一个普遍难题：在尝试订阅海外服务或进行国际支付时，常因国内支付手段及实体信用卡的限制，或是外部风控策略，导致支付受阻。然而，自使用Wildcard野卡虚拟信用卡以来，发现它是真香。该卡不仅申请门槛低，操作流程简化，还全面支持全球支付，更无需提交身份证号码等敏感个人信息，极大地提升了使用的便捷性和安全性。
 
 鉴于此，我特整理了一份详尽指南，涵盖了WildCard的注册流程、关键注意事项、优劣势分析、适用场景探讨，以及大家普遍关心的收费标准、充值与提现操作等细节，帮助各位伙伴快速掌握并安全、高效地使用wildcard实现AI自由，各种AI工具的订阅和合租教程可点击<a href="https://github.com/gptbmw">GPTBMW</a>进行查看。
@@ -98,13 +100,19 @@
 
 用户可以按照自己的需求选择合适的充值金额，建议充值金额略高于计划消费金额，以避免因余额不足导致支付失败。
 
+![选择充值金额](https://raw.githubusercontent.com/gptbmw/wildcard/refs/heads/main/wildcard%EF%BC%88image%EF%BC%89/W%EF%BC%88image%EF%BC%89/wildcard-9%E9%80%89%E6%8B%A9%E5%85%85%E5%80%BC%E9%87%91%E9%A2%9D.jpg)
+
 #### 第三步，确认充值方式。
 
 目前野卡支持使用支付宝进行充值，用户无需进行额外的外币兑换，系统会根据中国银行过去两天的美元外汇现钞卖出牌价的加权平均价格计算兑换汇率。
 
+![确认充值方式](https://raw.githubusercontent.com/gptbmw/wildcard/refs/heads/main/wildcard%EF%BC%88image%EF%BC%89/W%EF%BC%88image%EF%BC%89/wildcard-10%E7%A1%AE%E8%AE%A4%E5%85%85%E5%80%BC%E6%96%B9%E5%BC%8F.jpg)
+
 #### 第四步，提交充值订单。
 
 用户选择充值金额后，系统会自动计算实际支付金额，并生成支付宝二维码。此时，用户只需使用支付宝扫码支付，即可完成充值。
+
+![扫码二维码支付](https://raw.githubusercontent.com/gptbmw/wildcard/refs/heads/main/wildcard%EF%BC%88image%EF%BC%89/W%EF%BC%88image%EF%BC%89/wildcard-11%E6%94%AF%E4%BB%98%E5%AE%9D%E6%89%AB%E7%A0%81%E6%94%AF%E4%BB%98.jpg)
 
 需要注意的是，充值时会收取3.5%的手续费，用户在计算充值金额时需要考虑这一费用。例如，如果想要在卡内到账20美元，实际支付金额应为20×(1+3.5%)=20.7美元，最终按照汇率换算成人民币后支付。
 
@@ -116,7 +124,7 @@
 
 * 注册简单，开通快速：不需要复杂的审核流程，一分钟就能完成注册，并立即获得一张可用于全球支付的虚拟信用卡。不用提供身份证信息，也不需要绑定国内银行账户，流程简单方便。
 
-* 支持多种海外服务：可在ChatGPT Plus、Claude Pro、Google Play、Apple Store、Patreon、MidJourney等平台使用，适用于各种跨境支付需求。不管是订阅软件、购买数字产品，还是充值国际平台，都能轻松搞定。
+* 支持多种海外服务：可在<a href="https://github.com/gptbmw/gptbmw.github.io">ChatGPT Plus</a>、<a href="https://github.com/gptbmw/claude-pro">Claude Pro</a>、Google Play、Apple Store、Patreon、MidJourney等平台使用，适用于各种跨境支付需求。不管是订阅软件、购买数字产品，还是充值国际平台，都能轻松搞定。
 
 * 支持人民币充值，免去换汇麻烦：直接使用支付宝或微信充值，不用担心换汇问题，资金到账快，随时可用。相比传统信用卡，避免了外币转换费，让支付更划算。
 
