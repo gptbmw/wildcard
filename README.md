@@ -4,7 +4,7 @@
 
 ![首图](https://raw.githubusercontent.com/gptbmw/wildcard/refs/heads/main/wildcard%EF%BC%88image%EF%BC%89/W%EF%BC%88image%EF%BC%89/WildCard%20%E9%A6%96%E5%9B%BE.png)
 
-近期，我利用野卡（即WildCard升级版）顺利订阅了<a href="https://yeka.ai/i/GPTBMW">ChatGPT Plus</a>服务，整个流程超乎预期地顺畅且简便。在接触Wildcard虚拟信用卡之前，和众多用户一样，我也常常面临一个普遍难题：在尝试订阅海外服务或进行国际支付时，常因国内支付手段及实体信用卡的限制，或是外部风控策略，导致支付受阻。然而，自使用Wildcard野卡虚拟信用卡以来，发现它是真香。该卡不仅申请门槛低，操作流程简化，还全面支持全球支付，更无需提交身份证号码等敏感个人信息，极大地提升了使用的便捷性和安全性。
+近期，我利用野卡（即WildCard升级版）顺利订阅了<a href="https://github.com/gptbmw/gptbmw.github.io">ChatGPT Plus</a>服务，整个流程超乎预期地顺畅且简便。在接触Wildcard虚拟信用卡之前，和众多用户一样，我也常常面临一个普遍难题：在尝试订阅海外服务或进行国际支付时，常因国内支付手段及实体信用卡的限制，或是外部风控策略，导致支付受阻。然而，自使用Wildcard野卡虚拟信用卡以来，发现它是真香。该卡不仅申请门槛低，操作流程简化，还全面支持全球支付，更无需提交身份证号码等敏感个人信息，极大地提升了使用的便捷性和安全性。
 
 鉴于此，我特整理了一份详尽指南，涵盖了WildCard的注册流程、关键注意事项、优劣势分析、适用场景探讨，以及大家普遍关心的收费标准、充值与提现操作等细节，帮助各位伙伴快速掌握并安全、高效地使用wildcard实现AI自由，各种AI工具的订阅和合租教程可点击<a href="https://github.com/gptbmw">GPTBMW</a>进行查看。
 
