@@ -48,29 +48,19 @@
 
 ### 第四步：支付野卡年费
 
-选择所需的服务年限，并输入野卡专属邀请码“**GPTBMW**”可享受1美元的优惠。点击“下一步”后，扫描弹出的支付宝二维码，完成支付即可。
+选择所需的服务年限，并输入野卡专属邀请码“**GPTBMW**”可享受1美元的优惠。点击“下一步”，根据提示一步步了解使用场景、支持服务、封禁须知等，填写个人信息后点击下一步，扫描弹出的支付宝二维码，完成支付即可。
 
 ![支付wildcard野卡服务费](https://raw.githubusercontent.com/gptbmw/wildcard/refs/heads/main/wildcard%EF%BC%88image%EF%BC%89/wildcard-4%E6%94%AF%E4%BB%98%E6%9C%8D%E5%8A%A1%E8%B4%B9.png)
 
-### 第五步：填写个人信息
+### 第五步：查看虚拟信用卡信息
 
-支付成功后，进入个人信息填写页面。这里需要输入英文姓名，并同意封禁须知。填写完成后，点击“下一步”继续。然后你就会看到“恭喜您开通野卡支付服务”的提示，同时还会显示当前的支付限额。如果需要提高额度，可以点击“立即提升额度”进行认证。
-
-![填写野卡个人信息](https://raw.githubusercontent.com/gptbmw/wildcard/refs/heads/main/wildcard%EF%BC%88image%EF%BC%89/wildcard-5%E5%A1%AB%E5%86%99%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF.jpg)
-
-认证与不认证的区别：如果你选择不进行实名认证，每月支付限额将保持在60美元，适合一般用户使用。如果你的月支付额度高于60美元，那么可能需要进行实名认证（通过人脸识别），将每月支付限额提升至3000美元，适合需要更大额度的用户。
-
-无论是否进行认证，你都可以正常使用野卡虚拟信用卡进行OpenAI、Google Play、ChatGPT等平台的充值。认证与否仅影响每月支付的额度，具体选择可根据实际需求决定。
-
-### 第六步：查看虚拟信用卡信息
-
-点击左侧菜单栏的“订阅服务”，可以查看详细的卡片信息，包括卡号、安全码、有效期、账单地址以及可用余额等。
+点击左侧菜单栏中“我的卡片”，可以查看详细的卡片信息，包括卡号、安全码、有效期、账单地址以及可用余额等。
 
 ![查看wildcard野卡卡片](https://raw.githubusercontent.com/gptbmw/wildcard/refs/heads/main/wildcard-6%E6%88%91%E7%9A%84%E5%8D%A1%E7%89%871.jpg)
 
-### 第七步：为野卡充值
+### 第六步：为野卡充值
 
-刚开通的卡片余额为0，前面我们支付的是开卡费用，类似于我们办卡时的工本费，主要用于卡片管理和系统服务维护，这个开卡费用并不会存入账户余额。如果需要使用野卡进行海外订阅，比如ChatGPT Plus或Claude Pro，首先需要给卡片充值。建议充值金额略高于订阅费用，以确保支付顺利进行。
+刚开通的卡片余额为0，前面我们支付的是开卡费用，类似于我们办卡时的工本费，主要用于卡片管理和系统服务维护，这个开卡费用并不会存入账户余额。如果需要使用野卡进行海外订阅，比如<a href="https://github.com/gptbmw/gptbmw.github.io">订阅ChatGPT Plus</a>或<a href="https://github.com/gptbmw/claude-pro">Claude Pro升级订阅</a>，需要先给卡片充值。建议充值金额略高于订阅费用，以确保支付顺利进行。
 
 ![为wildcard野卡充值](https://raw.githubusercontent.com/gptbmw/wildcard/refs/heads/main/wildcard-7%E5%85%85%E5%80%BC1.jpg)
 
