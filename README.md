@@ -10,7 +10,7 @@
 
 ## 野卡是什么？
 
-野卡，原名WildCard虚拟信用卡，是一款面向全球在线支付需求的美国虚拟借记卡服务，无实体卡片的信用卡。注册简单、使用灵活、安全可靠，提现零手续费，，还提供网络加速、协助注册OpenAI等增值服务。支持支付宝、微信充值，帮助大家轻松订阅和购买ChatGPT Plus、OpenAI、Claude Pro、OnlyFans、Netflix等海外服务，让您畅享全球互联网服务。
+野卡，原名WildCard虚拟信用卡，是一款面向全球在线支付需求的美国虚拟借记卡服务，无实体卡片的信用卡，支持多种国际平台的支付。注册简单、使用灵活、安全可靠，提现零手续费，还提供网络加速、协助注册OpenAI等增值服务。支持支付宝、微信充值，帮助大家轻松订阅和<a href="https://github.com/gptbmw/gptbmw.github.io">购买ChatGPT Plus</a>、OpenAI、<a href="https://github.com/gptbmw/claude-pro">Claude Pro</a>、OnlyFans、<a href="https://github.com/gptbmw/netflix-hezu">Netflix</a>等海外服务，让您畅享全球互联网服务。
 
 <p align="center"><a href="https://yeka.ai/i/GPTBMW">点击直达wildcard野卡官网</a>
 
