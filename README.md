@@ -40,7 +40,7 @@
 
 ![注册wildcard野卡](https://raw.githubusercontent.com/gptbmw/wildcard/refs/heads/main/wildcard%EF%BC%88image%EF%BC%89/wildcard-2%E6%B3%A8%E5%86%8C.jpg)
 
-### 第三步：点击“立即开通”按钮
+### 第三步：点击“继续”
 
 注册完成后，点击左侧的“继续”。如果不想自己注册账号，也可选择右侧的服务。
 
