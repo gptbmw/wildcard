@@ -42,9 +42,9 @@
 
 ### 第三步：点击“立即开通”按钮
 
-注册完成后，点击左侧的“立即开通”。在这个页面，你可以看到野卡支持OpenAI、Google Play、ChatGPT、Claude等AI产品的支付，同时也支持Apple/Google应用商店绑卡和其他海外服务订阅，适用于各种跨境支付场景。
+注册完成后，点击左侧的“继续”。如果不想自己注册账号，也可选择右侧的服务。
 
-![立即开通wildcard野卡](https://raw.githubusercontent.com/gptbmw/wildcard/refs/heads/main/wildcard%EF%BC%88image%EF%BC%89/wildcard-3%E7%AB%8B%E5%8D%B3%E5%BC%80%E9%80%9A.png)
+![立即开通wildcard野卡](https://raw.githubusercontent.com/gptbmw/wildcard/refs/heads/main/wildcard%EF%BC%88image%EF%BC%89/wildcard-3%E7%BB%A7%E7%BB%AD.jpg)
 
 ### 第四步：支付野卡年费
 
