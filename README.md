@@ -1,10 +1,10 @@
 # 最新野卡wildcard虚拟信用卡使用指南：wildcard注册教程、如何开通野卡信用卡？轻松订阅海外服务
 
-<p align="center">文章更新于：2025年5月20日</p >
+<p align="center">文章更新于：2025年7月6日</p >
 
 ![首图](https://raw.githubusercontent.com/gptbmw/wildcard/refs/heads/main/wildcard%EF%BC%88image%EF%BC%89/W%EF%BC%88image%EF%BC%89/WildCard%20%E9%A6%96%E5%9B%BE.png)
 
-说实话，在用WildCard虚拟信用卡订阅<a href="https://github.com/gptbmw/gptbmw.github.io">ChatGPT Plus</a>服务之前，和很多人一样，在订阅国外服务时总遇到各种麻烦：要么是国内支付方式不支持，要么是实体信用卡被风控拦截。但自从用了<a href="https://yeka.ai/i/GPTBMW">Wildcard虚拟信用卡</a>之后，真的有种"早该这么干"的感觉。这张虚拟卡不仅申请简单，还能全球通用，支付起来特别省心。
+说实话，在用WildCard虚拟信用卡订阅<a href="https://github.com/gptbmw/gptbmw.github.io">ChatGPT Plus</a>之前，和大家一样，在订阅国外服务时总遇到各种麻烦：要么是国内支付方式不支持，要么是实体信用卡被风控拦截。但自从用了<a href="https://yeka.ai/i/GPTBMW">Wildcard虚拟信用卡</a>之后，真的有种"早该这么干"的感觉。这张虚拟卡不仅申请简单，还能全球通用，支付起来特别省心。
 
 为了方便大家，我整理了一份WildCard使用指南，包括注册步骤、注意事项、优缺点分析，还有适合哪些场景使用。当然也少不了大家最关心的费用问题、充值和提现操作等等。有了它，订阅各种AI工具就方便多了。如果还想了解更多AI服务的订阅和合租技巧，可以去<a href="https://github.com/gptbmw">GPTBMW</a>看看。
 
@@ -188,14 +188,17 @@
 * 完美支持<a href="https://github.com/gptbmw/gptbmw.github.io">ChatGPT Plus</a>、<a href="https://github.com/gptbmw/claude-pro">Claude Pro</a>等热门AI服务
 * 轻松订阅MidJourney、Poe等创作平台
 * 解决国内信用卡支付失败问题
+
 2.数字内容消费
 * 支持Google Play/App Store应用购买
 * 可开通YouTube Premium等会员服务
 * 兼容Adobe、GitHub Copilot等软件订阅
+
 3.跨境电商支付
 * 适用于Amazon等国际购物平台
 * 支持Notion、Vercel等服务订阅
 * 可用于AWS、Azure等云服务结算
+
 4.社交媒体应用
 * 支持X/Twitter Blue会员订阅
 * 可用于OnlyFans内容解锁
