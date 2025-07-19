@@ -1,6 +1,29 @@
 # 最新野卡wildcard虚拟信用卡使用指南：wildcard注册教程、如何开通野卡信用卡？轻松订阅海外服务
 
-<p align="center">文章更新于：2025年7月6日</p >
+<p align="center">文章更新于：2025年7月19日</p >
+
+## 重要提示：
+
+由于某些原因，WildCard野卡已于2025年7月12日被迫停止服务。如果你之前已经开通了WildCard野卡，并且卡内仍有余额，请尽快将余额使用完毕。如果你之前没有开通过WildCard野卡，那么今后将无法再使用WildCard野卡订阅任何海外服务。
+
+今后，如果你想使用ChatGPT、Claude、Midjourney、Grok、Poe等海外AI工具，目前仅能选择合租（镜像站）或代充值这两种方式了。
+
+### AI工具合租和和代充值平台首选：<a href="https://nf.video/Sy195">银河录像局</a>
+
+银河录像局是一家专业、合法合规（在监管部门有备案）的大型平台，安全稳定，价格实惠，大家可以放心使用。
+
+银河录像局目前提供的服务包括：
+
+* ChatGPT Plus合租、ChatGPT Plus代充值、ChatGPT Plus原生独立帐号
+* Claude Pro合租、Claude Pro原生独立帐号
+* Midjourney合租、Midjourney原生独立帐号
+* SuporGrok合租、SuporGrok原生独立帐号
+
+此外，银河录像局还提供24小时在线客服，所有服务均有完善的售后支持！
+
+* 银河录像局官网：<a href="https://nf.video/Sy195">https://nf.video/Sy195</a>
+
+**注意**：通过银河录像局合租AI工具或代充值时，**使用优惠码“GPTBMW”可享受九折优惠**！
 
 ![首图](https://raw.githubusercontent.com/gptbmw/wildcard/refs/heads/main/wildcard%EF%BC%88image%EF%BC%89/W%EF%BC%88image%EF%BC%89/WildCard%20%E9%A6%96%E5%9B%BE.png)
 
